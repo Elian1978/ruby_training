@@ -1,5 +1,5 @@
 #Ruby puede tener numero enteros
-puts "Enteros"
+puts 'Enteros'
 a = 37
 a + 1
 puts a
